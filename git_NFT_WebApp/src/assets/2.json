@@ -1,0 +1,19 @@
+{
+    "name": "EntrePrenuer_NFT",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Gziqn5y2C8sDPnYjJaewpzKTAyaVZNEoyQsEHk68ygZB",
+          "share": 100
+        }
+      ]
+    }
+  }

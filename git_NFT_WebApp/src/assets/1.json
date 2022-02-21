@@ -1,0 +1,19 @@
+{
+    "name": "Harryini_NFT",
+    "symbol": "",
+    "image": "1.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "1.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "Gziqn5y2C8sDPnYjJaewpzKTAyaVZNEoyQsEHk68ygZB",
+          "share": 100
+        }
+      ]
+    }
+  }
